@@ -22,3 +22,6 @@ in this repo, I'll place all stuff I've found over internet about godot engine, 
 * GodotPowerful - https://github.com/nonunknown/godot-powerful/tree/c96c5ccc4b789af425c19a11f5edd7bb6bf244d7
 
 
+## About Me
+Hi, I'm unknown, and i'm a huge fan of godotengine, like to make plugins,games,tutorials and share stuff to help people over there. Currently I'm working on a
+3D Game made with this awesome engine check it out: https://nonunknown.gamejolt.io/crash_doomed

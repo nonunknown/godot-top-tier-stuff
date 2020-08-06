@@ -2,6 +2,7 @@
 
 ## Description
 in this repo, I'll place all stuff I've found over internet about godot engine, that impressed me in some way.
+This will be updated constantly, so make sure to Watch or give it a STAR
 
 
 ## Projects

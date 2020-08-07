@@ -24,6 +24,7 @@ This will be updated constantly, so make sure to Watch or give it a STAR
 
 ## Honor mentions
 
+* GodotRemote - https://github.com/DmitriySalnikov/GodotRemote / https://youtu.be/LbFcQnS3z3E
 * GodotPowerful - https://github.com/nonunknown/godot-powerful/tree/c96c5ccc4b789af425c19a11f5edd7bb6bf244d7
 
 

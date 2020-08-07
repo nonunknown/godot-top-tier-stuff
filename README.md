@@ -10,7 +10,7 @@ This will be updated constantly, so make sure to Watch or give it a STAR
 * SplendDog's Chase - https://twitter.com/SplendidJams/status/1291226490265362432
 * MwDesign's FPS - https://www.youtube.com/watch?v=gPPn_oKWgow
 * IndieQuest's AirPlane - https://www.youtube.com/watch?v=k4OwmuHHUyc
-
+* GodotRemote -  https://youtu.be/LbFcQnS3z3E / https://github.com/DmitriySalnikov/GodotRemote
 ## Tutorials
 
 ### Shader
@@ -24,7 +24,7 @@ This will be updated constantly, so make sure to Watch or give it a STAR
 
 ## Honor mentions
 
-* GodotRemote - https://github.com/DmitriySalnikov/GodotRemote / https://youtu.be/LbFcQnS3z3E
+
 * GodotPowerful - https://github.com/nonunknown/godot-powerful/tree/c96c5ccc4b789af425c19a11f5edd7bb6bf244d7
 
 

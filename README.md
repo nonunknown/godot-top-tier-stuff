@@ -17,7 +17,7 @@ This will be updated constantly, so make sure to Watch or give it a STAR
 
 * Godot Shader Tutorial Transition Effect - https://www.youtube.com/watch?v=9-zBvE4AYNU&t=306s
 * GDQuest's Shader repo - https://github.com/GDQuest/godot-shaders
-
+* NoeGameDev's Shokwave Shader - https://www.youtube.com/watch?v=SCHdglr35pk
 ### Texture
 
 * Bump maps in 60 secs - https://www.youtube.com/watch?v=M2Krl2hcQtE

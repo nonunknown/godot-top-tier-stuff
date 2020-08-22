@@ -7,10 +7,14 @@ This will be updated constantly, so make sure to Watch or give it a STAR
 
 ## Projects
 
+
+* John's GravityAce - https://twitter.com/yafd
 * SplendDog's Chase - https://twitter.com/SplendidJams/status/1291226490265362432
+* Firebelley's Sword Slinger - https://twitter.com/firebelley
 * MwDesign's FPS - https://www.youtube.com/watch?v=gPPn_oKWgow
 * IndieQuest's AirPlane - https://www.youtube.com/watch?v=k4OwmuHHUyc
 * GodotRemote -  https://youtu.be/LbFcQnS3z3E / https://github.com/DmitriySalnikov/GodotRemote
+
 ## Tutorials
 
 ### Shader
